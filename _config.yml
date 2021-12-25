@@ -40,7 +40,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   Hello👋 my name is Antonella Schiavoni, I’m a Senior Machine Learning Engineer with over 5 years of experience. I am currently working at ASAPP as Machine Learning Engineer in the NLP Modeling team and also working on my Data Sciente Master thesis.
-  I enjoy learning new things and building prototypes to apply the knowledge 🤓. I work with Python 🐍 and a wide range of ML frameworks and libraries. I am always looking for opportunities to learn and apply something new.
+  I enjoy learning new things and building prototypes to apply the knowledge 🤓. I work with Python 🐍 and a wide range of ML frameworks and libraries. Also, I am always looking for opportunities to learn and apply something new.
   The technologies that I currently have the most experience working with are: Python, Pytorch, Docker, Kubernetes, Circle CI, Jenkins, R, Sklearn, Pandas, Git, ML Flow and AWS services.
 
 content:
@@ -80,30 +80,30 @@ content:
         caption: January 2019 - present
         link: https://www.asapp.com/
         description: | # this will include new lines to allow paragraphs
-          • Deploy and monitor new ML model services into production.
-          • Build and maintain airflow pipelines for training machine learning models.
-          • Improve deployment pipelines. This involved the migration of our deployment scripts to a full easy-to-use pipeline using lanzar and spinnaker.
-          • Ownership over one of the most important services that summarizes conversations.
-          • Train and maintain Asapp’s customer machine learning models which also involved the computation of model metrics to evaluate model performance, and the creation of custom monitors in Datadog.
-          • Perform data analysis on model’s results to evaluate ab test performance.
-          • Launch new clients to Asapp’s ML platform.
-          • Technical and Cultural Fit Interviewer
+          • Deploy and monitor new ML model services into production
+          • Build and maintain airflow pipelines for training machine learning models
+          • Improve deployment pipelines. This involved the migration of our deployment scripts to a full easy-to-use pipeline using lanzar and spinnaker
+          • Ownership over one of the most important services that summarizes conversations
+          • Train and maintain Asapp’s customer machine learning models which also involved the computation of model metrics to evaluate model performance, and the creation of custom monitors in Datadog
+          • Perform data analysis on model’s results to evaluate ab test performance
+          • Launch new clients to Asapp’s ML platform
           • Adapt service and model to run using GPU workers in production
           • Decouple service to be used separated from ASAPP product. This involves the design and implementation of a public API
           • Promoted to Senior Machine Learning in November 2021
+          • Technical and Cultural Fit Interviewer
       - layout: right
         title: Experian
         sub_title: Data Engineer Analyst
         caption: January 2018 - January 2019
         link: https://www.experian.com/
         description: | # this will include new lines to allow paragraphs
-          • Analyse and confirm the integrity of source data to be evaluated.
-          • Generate reports following quality control procedures to document analysis and model findings.
-          • Collaborate in the elaboration of complex data structures and programs.
-          • Create documentation, specifications, diagrams, and charts to provide direction to business and other IT teams.
-          • Perform data analysis and data modeling to create source to target mappings.
-          • Feature engineering. Use of Machine learning algorithms to create new variables.
-          • Analyse structured and unstructured data.
+          • Analyse and confirm the integrity of source data to be evaluated
+          • Generate reports following quality control procedures to document analysis and model findings
+          • Collaborate in the elaboration of complex data structures and programs
+          • Create documentation, specifications, diagrams, and charts to provide direction to business and other IT teams
+          • Perform data analysis and data modeling to create source to target mappings
+          • Feature engineering. Use of Machine learning algorithms to create new variables
+          • Analyse structured and unstructured data
   - title: Education
     layout: list
     content:
