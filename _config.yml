@@ -39,7 +39,7 @@ linkedin_username: antonellaschiavoni
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hello👋 my name is Antonella Schiavoni, I’m a Senior Machine Learning Engineer with over 5 years of experience. I am currently working at ASAPP as Machine Learning Engineer in the NLP Modeling team.
+  Hello👋 my name is Antonella Schiavoni, I’m a Senior Machine Learning Engineer with over 5 years of experience. I am currently working at ASAPP as Machine Learning Engineer in the NLP Modeling team and also working on my Data Sciente Master thesis.
   I enjoy learning new things and building prototypes to apply the knowledge. I work with Python and a wide range of ML frameworks and libraries. I am always looking for opportunities to learn and apply something new.
   The technologies that I currently have the most experience working with are: Python, Pytorch, Docker, Kubernetes, R, Sklearn, Pandas, Git, AWS services.
 
@@ -50,19 +50,27 @@ content:
       - layout: left
         title: Email Classification Service 
         link: https://github.com/antonella-schiavoni/email-classification-service
-        link_text: Link Text
+        link_text: Github Code
         quote: >
           Classify your email text using this email classification service
         description: | # this will include new lines to allow paragraphs
           A web application that contains a django service and a machine learning model that given a request with the text of an email, can detect if the email is spam or not.
       - layout: left
-        title: Evolutionary Tic-Tac-Toe 
+        title: Evolutionary Tic Tac Toe 
         link: https://github.com/antonella-schiavoni/evolutionary-tic-tac-toe
-        link_text: Link Text
+        link_text: Github Code
         quote: >
           Apply evolutionary algorithm to play tic tac toe
         description: | # this will include new lines to allow paragraphs
           This project consists of several scripts that are used to run the evolutionary algorithm to train an Agent to play tic tac toe.
+      - layout: left
+        title: Entity Recognition Service
+        link: https://github.com/antonella-schiavoni/entity-recognition-service
+        link_text: Github Code
+        quote: >
+          Detect the different entities that are in a text.
+        description: | # this will include new lines to allow paragraphs
+          A rest api that exposes and endpoint that returns the entities found in a text.
   - title: Experience
     layout: list
     content:
