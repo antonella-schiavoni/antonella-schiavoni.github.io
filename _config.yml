@@ -39,7 +39,7 @@ linkedin_username: antonellaschiavoni
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hello👋 my name is Antonella Schiavoni, I’m a Senior Machine Learning Engineer with over 5 years of experience. I am currently working at ASAPP as Machine Learning Engineer in the NLP Modeling team and also working on my Data Sciente Master thesis.
+  Hello👋 my name is Antonella Schiavoni, I’m a Senior Machine Learning Engineer with over 5 years of experience. I am currently working at ASAPP as Machine Learning Engineer in the NLP Modeling team and also working on my Data Science Master thesis.
   I enjoy learning new things and building prototypes to apply the knowledge 🤓. I work with Python 🐍 and a wide range of ML frameworks and libraries. Also, I am always looking for opportunities to learn and apply something new.
   The technologies that I currently have the most experience working with are: Python, Pytorch, Docker, Kubernetes, Circle CI, Jenkins, R, Sklearn, Pandas, Git, ML Flow and AWS services.
 
